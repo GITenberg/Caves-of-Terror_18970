@@ -1,0 +1,34 @@
+_repo: Caves-of-Terror_18970
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
+description: Action-adventure writer Talbot Mundy made his name in the genre with
+  a series of fast-paced, fan-pleasing page-turners set in the Middle East, India,
+  and Africa, based largely on his own experiences these regions. Later in his life,
+  however, Mundy became increasingly interested in mysticism and Theosophy. Caves
+  of Terror blends both of these components seamlessly, combining supernatural elements
+  with a thrill-a-minute plot.
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2006-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+title: Caves of Terror
+url: http://www.gutenberg.org/ebooks/18970
